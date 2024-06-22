@@ -1,0 +1,56 @@
+body {
+  color: white;
+  background-color: #010100;
+  font-family: 'Segoe UI';
+  font-size: 14px;
+}
+
+button {
+  position: relative;
+  top: 10px;
+  left: 10px;
+  border-radius: 0px;
+  padding: 5px;
+}
+
+input {
+  position: relative;
+  top: 10px;
+  left: 10px;
+  border-radius: 0px;
+  padding: 5px;
+}
+
+label {
+  position: relative;
+  top: 10px;
+  left: 10px;
+}
+
+a {
+  color: skyblue;
+}
+
+.panel1 {
+  position: fixed;
+  bottom: 20px;
+  left: 20px;
+  background-color: #111010;
+  border: 1px solid #888888;
+  width: 38%;
+  height: 70%;
+  padding: 10px;
+  font-size: 16px;
+}
+
+.panel2 {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  background-color: #111010;
+  border: 1px solid #888888;
+  width: 38%;
+  height: 70%;
+  padding: 10px;
+  font-size: 16px;
+}'
